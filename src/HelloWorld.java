@@ -1,5 +1,5 @@
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("HelloWorld from reacrive java");
+        System.out.println("HelloWorld from reactive java");
     }
 }
